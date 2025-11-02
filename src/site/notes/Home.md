@@ -5,4 +5,4 @@
 # テスト
 テスト
 
-[[Splines\|Splines]]
+[[Contents/Splines\|Splines]]
